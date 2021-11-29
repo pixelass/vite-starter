@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "antfu.vite",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editorconfig",
+    "teledemic.branch-warnings",
+    "amodio.toggle-excluded-files"
+  ]
+}
